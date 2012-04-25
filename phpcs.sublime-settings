@@ -1,0 +1,11 @@
+{
+  "phpcs_executable_path": "/usr/local/bin/phpcs",
+  "phpcs_additional_args": {
+    "--extensions": "php,ctp",
+    "--encoding": "UTF-8",
+    "--standard": "WDTMedia",
+    "-n": ""
+  },
+  "phpcs_php_path": "/usr/local/bin/php"
+
+}

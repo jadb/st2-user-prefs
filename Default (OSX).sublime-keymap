@@ -1,0 +1,11 @@
+[
+  // Goto Documentation
+  { "keys": ["f1"], "command": "goto_documentation" },
+
+  // Search CakePHP API
+  { "keys": ["super+shift+a"], "command": "cakephpapi_search_selection" },
+  { "keys": ["ctrl+shift+a"], "command": "cakephpapi_search_from_input" },
+
+  { "keys": ["super+shift+b"], "command": "cakephpbook_search_selection" },
+  { "keys": ["ctrl+shift+b"], "command": "cakephpbook_search_from_input" }
+]

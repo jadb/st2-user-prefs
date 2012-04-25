@@ -1,0 +1,44 @@
+{
+	"auto_upgrade_last_run": 1335386326,
+	"installed_packages":
+	[
+		"AAAPackageDev",
+		"Additional PHP Snippets",
+		"Alignment",
+		"BracketHighlighter",
+		"ChangeQuotes",
+		"Clipboard History",
+		"DetectSyntax",
+		"DocBlockr",
+		"Git",
+		"Goto Documentation",
+		"IndentGuides",
+		"iTodo",
+		"jQuery",
+		"KeymapManager",
+		"KnowledgeBase",
+		"LESS",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP Namespace Command",
+		"Phpcs",
+		"PHPUnit",
+		"Placeholders",
+		"Pman",
+		"Search CakePHP API",
+		"Search Stack Overflow",
+		"Search WordPress Codex",
+		"SendToPasteBin",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Tag",
+		"Theme - Pseudo OSX",
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets",
+		"ZenCoding"
+	],
+	"repositories":
+	[
+		"git://github.com/jadb/st2-search-cakephp-api.git"
+	]
+}
